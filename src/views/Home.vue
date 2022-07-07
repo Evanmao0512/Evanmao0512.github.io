@@ -13,11 +13,11 @@ const width = screen.width;
         <div class="flex w-full flex-col md:flex-row">
             <div class="w-full md:w-1/2">
                 <Typing
-                    text="Anya Forger"
+                    text="毛毛"
                     @done="step++"
                     class="mb-2 block text-2xl sm:text-3xl lg:text-4xl"
                 />
-                <Typing v-if="step > 0" @done="step++" :text="titles.join(', ')" :speed="60" />
+                <Typing v-if="step > 0" @done="step++" :text="titles.join(', ')" :speed="100" />
                 <a
                     v-if="step > 1"
                     class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
@@ -25,12 +25,12 @@ const width = screen.width;
                     target="_blank"
                 >
                     <MdiGithub class="mr-1 inline-block" />
-                    <Typing v-if="step > 1" @done="step++" text="GitHub" :speed="60" />
+                    <Typing v-if="step > 1" @done="step++" text="GitHub" :speed="130" />
                 </a>
                 <a
                     v-if="step > 2"
                     class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
-                    href="https://www.instagram.com/spy_family_official/"
+                    href="https://www.instagram.com/evanmao_0512"
                     target="_blank"
                 >
                     <MdiInstagram class="mr-1 inline-block" />

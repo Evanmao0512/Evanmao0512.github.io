@@ -35,44 +35,41 @@ pic.avatars.push(
     "https://spy-family.net/assets/img/special/episode12/06.png",
 );
 
-const titles = ["First-Grade Student", "Test Subject 007", "Telepath"];
+const titles = ["GUITAR PLAYER", "MUSIC LOVER"];
 
 const about = [
-    "My name is Anya Forger. I am 6 years old now!",
-    "I am studing in Cecile Hall at Eden Academy.",
+    "My name is Evan Mao. I am 16 years old now!",
+    "I am studing in CKSH in Hsinchu.",
     "",
     "This summer I went to NTNU CSIE Camp to learn how to code.",
-    "During the camp, I learned how to: ",
-    "  - Build SPA Website with frontend framework Vue and Tailwind.",
-    "  - Develop efficiently with Node.js ecosystem.",
-    "  - Design and develop a gomoku gaming agent with Python.",
-    "  - Operate Linux system with common commands.",
-    "  - Use Git and GitHub to work on projects.",
-    "",
-    'By the way, I am starring in an anime called "SPY x FAMILY". Did you watch it?',
+    "and I found it very interesting ",
+    "I really enjoys typing code",
+    "Although sometimes we got stuck for so long",
+    "But the moment we fix the bug feels GREAT "
+    
 ].join("\n");
 
 const projects = [
     {
-        name: "My Portfolio Website",
-        description: "A portfolio website for myself that I developed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall02.jpg",
-        skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
+        name: "Intelliegence GoBang",
+        description: "An AI that can handle any kinds of situation in GoBang",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzksocO-XsgoC4qdKQIbUw0YepocWD2bDLew&usqp=CAU",
+        skills: ["python coding"],
         url: "https://github.com/anya-forger/anya-forger.github.io",
     },
     {
-        name: "AI Gomoku Gaming Agent",
-        description: "A gomoku gaming agent with Python that I designed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall01.jpg",
-        skills: ["Python", "Algorithm", "Gomoku"],
-        url: "https://github.com/anya-forger",
+        name: "Making our own tablecloth",
+        description: "COOL TABLE,GOOD MOOD",
+        image: "https://imgur.com/ZsTkLs5.jpg",
+        skills: ["honeycomb"],
+        url: "",
     },
     {
-        name: "SPY x FAMILY",
-        description: "An anime that I starred in.",
-        image: "https://spy-family.net/assets/img/special/special10_1.gif",
-        skills: ["Performings"],
-        url: "https://spy-family.net",
+        name: "Get RickRolled LOL",
+        description: ":)",
+        image: "https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif",
+        skills: [""],
+        url: "https://youtu.be/dQw4w9WgXcQ",
     },
 ];
 
