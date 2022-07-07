@@ -44,7 +44,7 @@ function update(delay = 0) {
                 :speed="25"
                 v-if="step > 0"
                 @done="step++"
-                class="flex-1 md:mx-4"
+                class="flex-1 md:mx-4 sm:text-xl lg:text-2xl"
                 @click="open('https://spy-family.net/')"
             />
         </div>

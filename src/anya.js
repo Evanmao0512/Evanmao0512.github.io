@@ -1,5 +1,5 @@
 const pic = {
-    uniform: "https://spy-family.net/assets/img/common/header_bottomimg_3.png",
+    uniform: "https://cdn.discordapp.com/attachments/990542021024432180/994670462242131968/4C7BD55D-2990-4EB9-ADE8-615D9082A1B9.jpg",
     icecream: "https://spy-family.net/assets/img/common/header_bottomimg_3_family.png",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
     casual_large: "https://spy-family.net/assets/img/top/chara_anya_2.png",
@@ -56,12 +56,12 @@ const projects = [
         description: "An AI that can handle any kinds of situation in GoBang",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzksocO-XsgoC4qdKQIbUw0YepocWD2bDLew&usqp=CAU",
         skills: ["python coding"],
-        url: "https://github.com/anya-forger/anya-forger.github.io",
+        url: "",
     },
     {
         name: "Making our own tablecloth",
         description: "COOL TABLE,GOOD MOOD",
-        image: "https://imgur.com/ZsTkLs5.jpg",
+        image: "/wallpaper.gif",
         skills: ["honeycomb"],
         url: "",
     },

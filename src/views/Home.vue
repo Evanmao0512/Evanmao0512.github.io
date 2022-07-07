@@ -21,7 +21,7 @@ const width = screen.width;
                 <a
                     v-if="step > 1"
                     class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
-                    href="https://github.com/anya-forger"
+                    href="https://youtu.be/dQw4w9WgXcQ"
                     target="_blank"
                 >
                     <MdiGithub class="mr-1 inline-block" />
@@ -29,7 +29,7 @@ const width = screen.width;
                 </a>
                 <a
                     v-if="step > 2"
-                    class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
+                    class="mt-4 flex items-center text-lg text-yellow-500 transition-all hover:text-yellow-500"
                     href="https://www.instagram.com/evanmao_0512"
                     target="_blank"
                 >
