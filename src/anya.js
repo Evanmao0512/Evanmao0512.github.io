@@ -35,7 +35,8 @@ pic.avatars.push(
     "https://spy-family.net/assets/img/special/episode12/06.png",
 );
 
-const titles = ["GUITAR PLAYER", "MUSIC LOVER"];
+const titles = ["GUITAR PLAYER", "MUSIC LOVER,FOLLOW MY IG<3"];
+
 
 const about = [
     "My name is Evan Mao. I am 16 years old now!",
